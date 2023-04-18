@@ -109,3 +109,8 @@ ufw enable
 ```
 That’s all. Now on, your Jenkins server will run behind the Apache’s Reverse Proxy.
 
+
+----------------------------------------------------------------------------------
+
+ sudo apt-cache search openjdk
+ sudo apt-get install openjdk-17-jdk
